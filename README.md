@@ -29,7 +29,9 @@ Bot: What's the average budget for two people?
 1. Lesser than Rs. 300
 2. Rs. 300 to 700
 3. More than 700
+
 User: <300
+
 Bot: Showing you top rated restaurants:
 1. Restaurant 1 in Area 1. And the average price for two people here is: XXX
 Rs
@@ -38,8 +40,13 @@ Rs
 3. .
 4. .
 5. .
+
 Bot: Should I send you details of all the restaurants on email?
+
 User: yes. Please
+
 Bot: To what email id should I send it to?
+
 User: jddk.2jmd@kdl.co.in
+
 Bot: Sent. Bon Appetit!
