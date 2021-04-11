@@ -1,0 +1,108 @@
+actions:
+- action_check_cuisine
+- action_check_location
+- action_search_restaurants
+- action_send_email
+- utter_We_Do_not_operate
+- utter_ask_cuisine
+- utter_ask_cuisine_again
+- utter_ask_email
+- utter_ask_emailid
+- utter_ask_howcanhelp
+- utter_ask_location
+- utter_ask_location_again
+- utter_ask_price
+- utter_default
+- utter_mail_sent
+- utter_goodbye
+- utter_greet
+- utter_wrong_cuisine
+entities:
+- cuisine
+- emailid
+- facility_type
+- location
+- money
+intents:
+- restaurant_search
+- greet
+- affirm
+- place_price_search
+- email
+- deny
+- thanks
+- goodbye
+- stop
+responses:
+  utter_We_Do_not_operate:
+  - text: We do not operate in that area yet
+  utter_ask_cuisine:
+  - buttons:
+    - payload: /place_price_search{"cuisine":"Chinese"}
+      title: Chinese
+    - payload: /place_price_search{"cuisine":"Mexican"}
+      title: Mexican
+    - payload: /place_price_search{"cuisine":"Italian"}
+      title: Italian
+    - payload: /place_price_search{"cuisine":"American"}
+      title: American
+    - payload: /place_price_search{"cuisine":"South Indian"}
+      title: South Indian
+    - payload: /place_price_search{"cuisine":"North Indian"}
+      title: North Indian
+    text: what kind of cuisine would you like to have?
+  utter_ask_cuisine_again:
+  - text: Please tell your cuisine again
+  utter_wrong_cuisine:
+  - text: Sorry this cuisine is not available
+  utter_ask_email:
+  - text: Would you like to receive an email with restaurant and price details?
+  utter_ask_emailid:
+  - text: Can I have your email-id?
+  utter_mail_sent:
+  - text: email has been sent
+  utter_ask_howcanhelp:
+  - text: how can I help you?
+  utter_ask_location:
+  - text: In what location?
+  utter_ask_location_again:
+  - text: Sorry we do not operate in this city. Can you please specify some other location?
+  - text: Sorry did not find any such location. Can you please tell again?
+  utter_ask_price:
+  - buttons:
+    - payload: /place_price_search{"money":"299"}
+      title: Lesser than Rs. 300
+    - payload: /place_price_search{"money":"599"}
+      title: Between Rs. 300 to 700
+    - payload: /place_price_search{"money":"799"}
+      title: More than 700
+    text: What price range are you looking at?
+  utter_default:
+  - text: i cannot understand
+  utter_goodbye:
+  - text: goodbye :(
+  - text: Bye-bye
+  utter_greet:
+  - text: hey there! How may i help you
+  - text: Hi, How can I help you!
+  - text: Hey, How is it going. How May I help you Today
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 0
+slots:
+  check_cuisine:
+    type: bool
+  check_location:
+    type: bool
+  cuisine:
+    type: text
+  emailid:
+    type: text
+  facility_type:
+    type: text
+  location:
+    type: text
+  money:
+    type: text
+  restaurants_list:
+    type: unfeaturized

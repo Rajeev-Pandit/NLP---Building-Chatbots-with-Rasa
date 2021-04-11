@@ -1,0 +1,1585 @@
+## intent:affirm
+- ok great
+- ok i accept
+- ok sara
+- ok, I behave now
+- ok, I understood
+- ok, Sara
+- ok...
+- okay cool
+- okay sure
+- okay..
+- oki doki
+- okie
+- ook
+- oui
+- perfect
+- please
+- right, thank you
+- sort of
+- sure
+- sure thing
+- sure!
+- that is cool
+- that ok
+- that sounds fine
+- sounds really good
+- that's great
+- that's right
+- thats fine
+- thats good
+- thats great
+- top
+- thanks
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- yas
+- yay
+- ye splease
+- yea
+- yeah do that
+- yeah sure
+- yeah'=
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep
+- yep i want that
+- yep please
+- yep that's nice
+- yep thats cool
+- yep, will do thank you
+- yep. :/
+- yes ...
+- yes I do
+- yes accept please
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i accept
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes please
+- yes please!
+- yes pls
+- yes that's great
+- yes that's what i want
+- yes you can
+- yes'
+- yes, I'd love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes.
+- yesh
+- yess
+- yessoo
+- yesss
+- yesssss
+- yesyestyes
+- yesyesyes
+- yez
+- yop
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- yres
+- ys
+- yyeeeh
+- Okay cool
+- ok..
+- considering
+- More a less
+- sounds good!
+- really
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
+- yeah
+- si
+- correct
+- ye
+- uh yes
+- hmm
+- hmmmm
+- ok
+- okay
+- this is fine
+- yeah that's it
+- yup
+- it is
+- yes right
+- yes and i dont care
+- right on
+- i love that
+- Accept
+- Awesome!
+- Cool
+- Good
+- Great
+- I accept
+- I accept.
+- I agree
+- I am using it
+- I changed my mind. I want to accept it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- I'd absolutely love that
+- I'm sure I will!
+- I'm using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Oh, ok
+- Ok
+- Ok let's start
+- Ok.
+- Okay
+- Okay!
+- PLEASE
+- SURE
+- Sure
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep that's fine
+- Yep!
+- Yepp
+- Yes
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes.
+- Yup
+- a little
+- accept
+- accepted
+- agreed
+- ah ok
+- alright
+- alright, cool
+- amayzing
+- amazing!
+- awesome
+- awesome!
+- confirm
+- cool
+- cool :)
+- cool story bro
+- cool!
+- coolio
+- definitely yes without a doubt
+- done
+- fair enough
+- fcourse
+- fine
+- go
+- go ahead
+- go for it
+- going super well
+- good.
+- great
+- great lets do that
+- great choice
+- great!
+- hell yeah
+- hell yes
+- hm, i'd like that
+- how nice!
+- i accept
+- i agree
+- i am!
+- i want that
+- i will!
+- it is ok
+- its okay
+- indeed
+- ja
+- ja cool
+- ja thats great
+- k
+- kk
+- lets do it
+- lets do this
+- not bad
+- of course
+- ofcoure i do
+- ofcourse
+- oh awesome!
+- oh cool
+- oh good !!
+- oh super
+- ok cool
+- ok fine
+- ok friend
+- ok good
+
+## intent:deny
+- no I haven't decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i can't
+- no i don't accept
+- no i dont want to
+- no i dont want to accept :P lol
+- no i won't
+- no ma'am
+- no sir
+- no sorry
+- no thank s
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my frst time
+- no, thank you
+- no, thanks
+- no, thankyou
+- no. u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope!
+- nope. i am good
+- not going well at all
+- not right now
+- not yet
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I do not need help installing
+- I don't wanna tell the name of my company
+- no stop
+- stop it, i do not care!!!
+- none of them
+- I don't agree
+- no
+- not sure
+- don't wory
+- not need to bother
+- why bother
+- leave it
+- that's not needed
+- no worries
+- no new selection
+- no thanks
+- no thank you
+- uh no
+- breath no
+- do you have something else
+- no this does not work for me
+- not really
+- no need
+- nope
+- not at all
+- don't
+- I don't want to
+- I don't want to give it to you
+- I don't want to say
+- I dont want to tell
+- I'm not giving you my emailid address
+- I'm not going to give it to you
+- NEIN
+- NO
+- NO DON"T WANT THIS!
+- Nah
+- Neither
+- Never
+- Nevermind
+- No
+- No thank you
+- No, not really.
+- No, thank you
+- No.
+- Nopes
+- Not really
+- absolutely not
+- decline
+- definitely not
+- deny
+- i decline
+- i don not like this
+- i don't think so
+- i don't want either of those
+- i don't want to
+- i don't want to give you my emailid
+- i dont want to
+- i dont want to accept :P lol
+- i guess it means - no
+- i'm afraid not
+- i'm not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah I'm good
+- nah not for me
+- nah, i'm good
+- nehi
+- nein
+- neither
+- never
+- never mind
+- no :(
+- no I dont want
+
+## intent:stop
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- i'm done
+- leave it
+- i will not move forward
+- really stop
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+- stop please
+- ok then you cant help me
+- hault
+- i am done
+- i no longer need you
+- just stop
+- i am tired
+- a'nt going anywhere
+- can you just stop
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+
+## intent:goodbye
+- bye!
+- byee
+- ciao
+- cya
+- farewell
+- good bye
+- good bye rasa bot!
+- good night
+- goodbye
+- goodbye.
+- ok Bye
+- ok bye
+- ok, bye
+- ok.bye
+- see u later
+- see ya
+- see you
+- see you . bye
+- take care
+- then bye
+- tlak to you later
+- toodle-oo
+- Exit
+- Close this talk
+- byr
+- Bye
+- Bye!
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- have a good one
+- i'm off
+- see you later alligator
+- we'll speak soon
+- Bye bye
+- adios
+- adios?
+- bye .
+- bye :P
+- bye bot
+- bye bye
+- bye bye bot
+- bye udo
+- bye was nice talking to you
+
+## intent:greet
+- good evening
+- greet
+- greetings
+- hai
+- hallo
+- hallo sara
+- halloo
+- halloooo
+- halo
+- halo sara
+- heeey
+- heelio
+- hell9o
+- hellio
+- hello
+- hello everybody
+- hello friend
+- hello hi
+- hello is anybody there
+- hello it is me again
+- hello robot
+- hello sara
+- hello sweatheart
+- hello sweet boy
+- hello there
+- hello world
+- hello?
+- hello]
+- hellooo
+- helloooo
+- helo
+- hey
+- hey bot
+- hey bot!
+- hey dude
+- hey hey
+- hey let's talk
+- hey rasa
+- hey sara
+- hey ther
+- hey there
+- hey there boy
+- hey there..
+- hey, let's talk
+- hey, sara!
+- heya
+- heyho
+- heyo
+- hhola
+- hi
+- hi !
+- hi Mister
+- hi again
+- hi can you speak ?
+- hi folks
+- hi friend
+- hi friends
+- hi hi
+- hi i'm Arun
+- hi im Naman
+- hi pal!
+- hi sara
+- hi there
+- hi there it's me
+- hi!
+- hi?
+- hieee
+- hii
+- hiihihi
+- hiii
+- hlo
+- hola
+- howdy
+- konichiwa
+- merhaba
+- salut
+- sup
+- wasssup
+- wasssup!
+- what up
+- whats popping
+- whats up
+- yo
+- yoo
+- ssup?
+- helleo
+- dear sir
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- good morning
+- Bom dia
+- Bonjour
+- Good Morning
+- Good morning
+- Good mourning
+- Guten Morgen
+- HELLO
+- HEY
+- HEllo
+- HI
+- HI Sara
+- Hallo
+- Hei
+- Hellllooooooo
+- Hello Bot
+- Hello!
+- Hey Sara
+- Heya
+- Heylo
+- Hi there
+- Hi!
+- Hi'
+- Hi,
+- Hi, bot
+- Hieee
+- Hieeeeeeeeeeeee
+- Hola
+- I said, helllllloooooO!!!!
+- Well hello there ;)
+- What is up?
+- Whats up
+- Whats up my bot
+- Whats up?
+- ayyyy whaddup
+- bonjour
+- ey boss
+
+## intent:email
+- yup, i will, send me on [abhbose3k@gmail.com](emailid)
+- mail on [Willie@gmail.in](emailid)
+- dude its [Robert.Sparks@orkut.com](emailid)
+- [K_Rainey@Yochum.net](emailid)
+- [J_Herrera@gmail.com](emailid)
+- My emailid is [Richard@Simmons.com](emailid)
+- It is [Drew@Mccarthy.com](emailid)
+- sign me up, my emailid is [Elizabeth@yahoo.au](emailid)
+- here is my mail id [Bruce_harryman@Olsen.ac](emailid)
+- try [Denise@gmail.com](emailid)
+- send me on [rahul187656@gmail.com](emailid)
+- sure, it's [ajay1965@xbc.in](emailid)
+- [rahul1994jh@outlook.com](emailid)
+- [sekhar.dev@gmail.com](emailid)
+- [rajeevpandit6@gmail.com](emailid)
+- send to [abcd@xyz.com](emailid)
+- [abc9@defwef.com](emailid)
+- please send it on [alia23@hotmail.com](emailid)
+- my mail address is [9werhck@jeifn.com](emailid)
+- i would like on [rajesh.ulna9@gmail.com](emailid)
+- it is [9Ramesh_deft@yahoo.com](emailid)
+- go for [98Riyan.scary_37@hotmail.com](emailid)
+- ahmm [RAM.kumar007@outlook.com](emailid) is my mail id
+- what about [Radhe_Kishan_143@yahooindia.com](emailid)
+- look for [smile.deepika.17@poshgroup.com](emailid)
+- here is my emailid: [Marcus.Miller@yahoo.com](emailid)
+- ok it's [Hee@yahoo.com](emailid)
+- ok its [P_Simpkins@Suehs.com](emailid)
+- it's [Shannon.Adelman@Hurt.com](emailid)
+- it's [R_Iuliucci@yahoo.com](emailid)
+- emailid = [Patti.Salazar@gmail.com](emailid)
+- can you try [E_Conder@gmail.com](emailid) instead?
+- yeah, its [a@bMC.com](emailid)
+
+## intent:place_price_search
+- [Agra](location)
+- [Ahmedabad](location)
+- [Aligarh](location)
+- [Amravati](location)
+- [Amritsar](location)
+- [Asansol](location)
+- [Aurangabad](location)
+- [Bangalore](location)
+- [Bareilly](location)
+- [Belgaum](location)
+- [Bhavnagar](location)
+- [Bhiwandi](location)
+- [Bhopal](location)
+- [Bhubaneswar](location)
+- [Bikaner](location)
+- [Bilaspur](location)
+- [Bokaro Steel City](location)
+- [Chennai](location)
+- [Chandigarh](location)
+- [Coimbatore](location)
+- [Cuttack](location)
+- [Delhi](location)
+- [Dehradun](location)
+- [Dhanbad](location)
+- [Bhilai](location)
+- [Durgapur](location)
+- [Erode](location)
+- [Faridabad](location)
+- [Firozabad](location)
+- [Gandhinagar](location)
+- [Ghaziabad](location)
+- [Gorakhpur](location)
+- [Gulbarga](location)
+- [Guntur](location)
+- [Gwalior](location)
+- [Gurgaon](location)
+- [Guwahati](location)
+- [Hamirpur](location)
+- [Hyderabad](location)
+- [Hubli–Dharwad](location)
+- [Indore](location)
+- [Jabalpur](location)
+- [Jaipur](location)
+- [Jammu](location)
+- [Jalandhar](location)
+- [Jamnagar](location)
+- [Jamshedpur](location)
+- [Jhansi](location)
+- [Jodhpur](location)
+- [Kanpur](location)
+- [Kolkata](location)
+- [Kakinada](location)
+- [Kannur](location)
+- [Kochi](location)
+- [Kolhapur](location)
+- [Kollam](location)
+- [Kozhikode](location)
+- [Kurnool](location)
+- [Ludhiana](location)
+- [Lucknow](location)
+- [Mumbai](location)
+- [Madurai](location)
+- [Malappuram](location)
+- [Mathura](location)
+- [Meerut](location)
+- [Moradabad](location)
+- [Mysore](location)
+- [Nagpur](location)
+- [Nanded](location)
+- [Nashik](location)
+- [Nellore](location)
+- [Noida](location)
+- [Patna](location)
+- [Pondicherry](location)
+- [Purulia](location)
+- [Pune](location)
+- [Prayagraj](location)
+- [Raipur](location)
+- [Rajkot](location)
+- [Rajahmundry](location)
+- [Ranchi](location)
+- [Rourkela](location)
+- [Salem](location)
+- [Sangli](location)
+- [Shimla](location)
+- [Siliguri](location)
+- [Solapur](location)
+- [Srinagar](location)
+- [Surat](location)
+- [Thiruvananthapuram](location)
+- [Thrissur](location)
+- [Tiruchirappalli](location)
+- [Tiruppur](location)
+- [Ujjain](location)
+- [Bijapur](location)
+- [Vadodara](location)
+- [Varanasi](location)
+- [Vasai-Virar City](location)
+- anywhere in the [west](location)
+- i am in [Pune](location)
+- [dili]{"entity": "location", "value": "Delhi"}
+- [calcutta]{"entity": "location", "value": "Kolkata"}
+- nearby [bungalore]{"entity": "location", "value": "Bangalore"}
+- near [noida]{"entity": "location", "value": "Noida"}
+- i am looking in [amritsar](location)
+- i'll prefer in [chenai]{"entity": "location", "value": "Chennai"}
+- what about [meerut](location)
+- somewhere near [Thrissur](location)
+- around [hyderabad](location)
+- nearby [Varanasi](location)
+- [Vijayawada](location)
+- [Visakhapatnam](location)
+- [Vellore](location)
+- [Warangal](location)
+- [Afghan](cuisine) food
+- [North Indian](cuisine)
+- i'll go for [American](cuisine)
+- today [South Indian](cuisine)
+- some [Chinese](cuisine)
+- surely [Mexican](cuisine)
+- only [Italian](cuisine)
+- what about [irish](cuisine) food
+- id like [english](cuisine) food
+- will go for [spanish](cuisine) food
+- will try [indonesian](cuisine) food today
+- heard a lot about [modern european](cuisine)
+- how about [korean](cuisine)
+- hmm,[gastropub](cuisine)
+- i want [french](cuisine) food
+- how about [american]{"entity": "cuisine", "value": "American"} food
+- hot [Italian](cuisine)
+- how bout [asian oriental](cuisine)
+- super [seafood](cuisine)
+- top [french](cuisine) food
+- id like [canapes](cuisine)
+- [100-300]{"entity": "money", "value": "299"}
+- [normal]{"entity": "money", "value": "299"}
+- [900]{"entity": "money", "value": "799"}
+- [high priced]{"entity": "money", "value": "799"}
+- [heavily priced]{"entity": "money", "value": "799"}
+- [classical]{"entity": "money", "value": "799"}
+- [high end]{"entity": "money", "value": "799"}
+- [moderate](budget)
+- [authentic]{"entity": "money", "value": "799"}
+- [wide ranging]{"entity": "money", "value": "799"}
+- [above 700]{"entity": "money", "value": "799"}
+- [Rs 700]{"entity": "money", "value": "599"}
+- [> 700]{"entity": "money", "value": "799"}
+- [>700]{"entity": "money", "value": "799"}
+- [>1000]{"entity": "money", "value": "799"}
+- [100]{"entity": "money", "value": "299"}
+- [Rs 300]{"entity": "money", "value": "299"}
+- around [150]{"entity": "money", "value": "299"}
+- [200]{"entity": "money", "value": "299"}
+- [250]{"entity": "money", "value": "299"}
+- [300]{"entity": "money", "value": "299"}
+- [pocket fiendly]{"entity": "money", "value": "299"}
+- [low price]{"entity": "money", "value": "299"}
+- [low priced]{"entity": "money", "value": "299"}
+- go for [< 300]{"entity": "money", "value": "299"}
+- [100 to 300]{"entity": "money", "value": "299"}
+- [low cost]{"entity": "money", "value": "299"}
+- show me [under 250]{"entity": "money", "value": "299"}
+- something [near 300]{"entity": "money", "value": "299"}
+- [below 300]{"entity": "money", "value": "299"}
+- in [budget]{"entity": "money", "value": "299"}
+- ahmm [upto 300]{"entity": "money", "value": "299"}
+- for me choose [cost-effective]{"entity": "money", "value": "299"}
+- very [economical]{"entity": "money", "value": "299"}
+- somewhat [modest]{"entity": "money", "value": "299"}
+- [between 100 to 300]{"entity": "money", "value": "299"}
+- [lesser than Rs 300]{"entity": "money", "value": "299"}
+- go for [cheapo]{"entity": "money", "value": "299"}
+- select [lowered]{"entity": "money", "value": "299"} items
+- anything [discounted]{"entity": "money", "value": "299"}
+- [<300]{"entity": "money", "value": "299"}
+- [exactly 300]{"entity": "money", "value": "299"}
+- [not more than 300]{"entity": "money", "value": "299"}
+- [Lesser than Rs 300]{"entity": "money", "value": "299"}
+- [under Rs 300]{"entity": "money", "value": "299"}
+- [Rs 300 to 700]{"entity": "money", "value": "599"}
+- [Between Rs 300 to 700]{"entity": "money", "value": "599"}
+- [400]{"entity": "money", "value": "599"}
+- [600]{"entity": "money", "value": "599"}
+- [500]{"entity": "money", "value": "599"}
+- [700]{"entity": "money", "value": "599"}
+- [399]{"entity": "money", "value": "599"}
+- [350]{"entity": "money", "value": "599"}
+- in [medium range]{"entity": "money", "value": "599"}
+- select [mid sized]{"entity": "money", "value": "599"}
+- something [not too cheap]{"entity": "money", "value": "599"}
+- the [most common]{"entity": "money", "value": "599"}
+- [<700]{"entity": "money", "value": "599"}
+- [>300 and <700]{"entity": "money", "value": "599"}
+- [More than 300]{"entity": "money", "value": "599"}
+- [< 700]{"entity": "money", "value": "599"}
+- for [less than 700]{"entity": "money", "value": "599"}
+- what about [near 600]{"entity": "money", "value": "599"}(budget:moderate)
+- ahh [upto 700]{"entity": "money", "value": "599"}
+- [not more than 600]{"entity": "money", "value": "599"}
+- [between 300 and 700]{"entity": "money", "value": "599"}
+- [between Rs 300 and 700]{"entity": "money", "value": "599"}
+- [bearable]{"entity": "money", "value": "599"}
+- [balaced]{"entity": "money", "value": "599"}
+- [reasonable]{"entity": "money", "value": "599"}
+- [intermediate]{"entity": "money", "value": "599"}
+- [middle]{"entity": "money", "value": "599"}
+- show me some [mid priced]{"entity": "money", "value": "599"} cafes
+- [median]{"entity": "money", "value": "599"}
+- [standard]{"entity": "money", "value": "599"}
+- [ample]{"entity": "money", "value": "799"}
+- very [high budget]{"entity": "money", "value": "799"}
+- [hefty]{"entity": "money", "value": "799"}
+- [800]{"entity": "money", "value": "799"}
+- [1000]{"entity": "money", "value": "799"}
+- [1500]{"entity": "money", "value": "799"}
+- [2500]{"entity": "money", "value": "799"}
+- [1200]{"entity": "money", "value": "799"}
+- [More than 700]{"entity": "money", "value": "799"}
+- [North india]{"entity": "cuisine", "value": "North Indian"}
+- [delhi](location)
+- [mexican](cuisine)
+- [300-700]{"entity": "money", "value": "599"} range
+- [kochi](location)
+- [>300-700](budget)
+- [300-700]{"entity": "money", "value": "599"}
+- [chini]{"entity": "cuisine", "value": "Chinese"}
+- [less than 300]{"entity": "money", "value": "299"}
+- [delhi]{"entity": "location", "value": "Delhi"}
+- [Between Rs. 300 to 700](money)
+- [Italian](cuisine)
+- [delhi]{"entity": "location", "value": "Delhi"}
+- [mumbai]{"entity": "location", "value": "Mumbai"}
+- [bombay]{"entity": "location", "value": "Mumbai"}
+- [bengaluru]{"entity": "location", "value": "Bangalore"}
+- [allahabad]{"entity": "location", "value": "Prayagraj"}
+- [Allahabad]{"entity": "location", "value": "Prayagraj"}
+- [kolkata]{"entity": "location", "value": "Kolkata"}
+- [sikkim]{"entity": "location", "value": "Sikkim"}
+- [ladakh]{"entity": "location", "value": "Ladakh"}
+- [ahmedabad]{"entity": "location", "value": "Ahmedabad"}
+- [lucknow]{"entity": "location", "value": "Lucknow"}
+- [kashi]{"entity": "location", "value": "Varanasi"}
+- [gurugram]{"entity": "location", "value": "Gurgaon"}
+- [bhuwneswar]{"entity": "location", "value": "Bhubaneswar"}
+- [bhubaneswar]{"entity": "location", "value": "Bhubaneswar"}
+## intent:restaurant_search
+- search for [restaurants]{"entity": "facility_type", "value": "restaurant"}
+- i need a [restaurant](facility_type)
+- id like a [cafe]{"entity": "facility_type", "value": "restaurant"}
+- i am looking for some good [hotels]{"entity": "facility_type", "value": "restaurant"}
+- looking for good [restaurant](facility_type)
+- [restaurant](facility_type) please
+- looking out for best [restaurant](facility_type)
+- i need to find a [resturant]{"entity": "facility_type", "value": "restaurant"}
+- i am looking for a [pub]{"entity": "facility_type", "value": "restaurant"} in [bangolore]{"entity": "location", "value": "Bangalore"}
+- find nearby [restro]{"entity": "facility_type", "value": "restaurant"}
+- show me [restaurants]{"entity": "facility_type", "value": "restaurant"}
+- find me good [cafe]{"entity": "facility_type", "value": "restaurant"} in [Rishikesh](location)
+- can you please show me some near by [restaurant](facility_type)
+- may i have list of some [motels]{"entity": "facility_type", "value": "restaurant"}
+- show me best [restaurant](facility_type)
+- how about some good [eatries]{"entity": "facility_type", "value": "restaurant"}?
+- what if i tell you to find some best [restaurant](facility_type) for me
+- i am in mood of luch from best [restaurant](facility_type) near me
+- hey give me top [restaurant](facility_type) lists
+- would you mind showing me top [restaurant](facility_type) around here in [risikesh](location){"entity": "location", "value": "Rishikesh"}
+- do you know some good [restaurant](facility_type)
+- i am intrested in [restaurant](facility_type)
+- which are some good [cafes]{"entity": "facility_type", "value": "restaurant"} near me
+- i need a [restaurant](facility_type) near me
+- Can you suggest some good restaurants in [Rishikesh](location)
+- show me [restaurant](facility_type) near me
+- are there any good [restaurant](facility_type) near me?
+- find the best [restaurant](facility_type) near me
+- help me with [dhabas]{"entity": "facility_type", "value": "restaurant"} near me
+- [restaurant](facility_type) near me
+- top [restaurant](facility_type) near me
+- Can you suggest some good restaurants in [kolkata](location)
+- I’m hungry. Looking out for some good [chinese](cuisine) [restaurants]{"entity": "facility_type", "value": "restaurant"} in [chandigarh](location)
+- i want [cafe]{"entity": "facility_type", "value": "restaurant"} in [Rs 300 to 700]{"entity": "money", "value": "599"}
+- best [eatry]{"entity": "facility_type", "value": "restaurant"} in [gohati]{"entity": "location", "value": "Guwahati"}
+- which are some good [restaurant](facility_type) around me ?
+- i need a [restaurant](facility_type) around me
+- i am looking for table for 4 in [cochin]{"entity": "location", "value": "Kochi"}
+- can you book table for 2 in [lucknow]{"entity": "location", "value": "Lucknow"}
+- show me [restaurant](facility_type) around me
+- are there any good [restaurant](facility_type) around me?
+- find the best [restaurant](facility_type) around me
+- help me with [restaurant](facility_type) around me
+- [restaurant](facility_type) around me
+- best [restaurant](facility_type) around me
+- which are some good [restaurant](facility_type) near my location?
+- i need a [hotel]{"entity": "facility_type", "value": "restaurant"} near my location
+- show me [restaurant](facility_type) near my location
+- are there any good [restaurant](facility_type) near my location?
+- find the best [restaurant](facility_type) near my location
+- help me with [restaurant](facility_type) near my location
+- [restaurant](facility_type) near my location
+- best [restaurant](facility_type) near my location
+- find me [restaurant] with avg budget of [less than 300]{"entity": "money", "value": "299"}
+- [restaurant](facility_type) nearby
+- are there any good [restaurant](facility_type)
+- show me nearby [restaurant](facility_type)
+- find me best nearby [restaurant](facility_type)
+- i love [sasta]{"entity": "money", "value": "299"}[restaurant](facility_type)
+- top [restaurant](facility_type) nearby
+- nearby [restaurant](facility_type)
+- [restaurant](facility_type) nearby me
+- help me with nearby [restaurant](facility_type)
+- can you please help me with nearby [restaurant](facility_type)?
+- may you find some nearby [restaurant](facility_type)?
+- are there any good [restaurant](facility_type) nearby?
+- I’m hungry. Looking out for some good [restaurant](facility_type)
+- i will go for [most preferred]{"entity": "money", "value": "599"} [north india]{"entity": "cuisine", "value": "North Indian"} [cafe]{"entity": "facility_type", "value": "restaurant"}
+- good [bar]{"entity": "facility_type", "value": "restaurant"} in budget of [around 700]{"entity": "money", "value": "599"}
+- find me [resataurants]{"entity": "facility_type", "value": "restaurant"} and send the details on [ajay165@gmail.com](emailid)
+- [restaurant](facility_type)
+- a [restaurant](facility_type)
+- some near by [restaurant](facility_type) under [Rs 700]{"entity": "money", "value": "599"}
+- [restaurants]{"entity": "facility_type", "value": "restaurant"}
+- [cafe]{"entity": "facility_type", "value": "restaurant"}
+- [hotel]{"entity": "facility_type", "value": "restaurant"}
+- [motel]{"entity": "facility_type", "value": "restaurant"}
+- [dhaba]{"entity": "facility_type", "value": "restaurant"}
+- a [restaurants]{"entity": "facility_type", "value": "restaurant"}
+- a [cafe]{"entity": "facility_type", "value": "restaurant"}
+- some [hotels]{"entity": "facility_type", "value": "restaurant"}
+- top [motels]{"entity": "facility_type", "value": "restaurant"}
+- show me [purvanchal]{"entity": "cuisine", "value": "North Indian"} [dhaba]{"entity": "facility_type", "value": "restaurant"} in [old delhi]{"entity": "location", "value": "Delhi"}
+- show me in [purani dilli]{"entity": "location", "value": "Delhi"}
+- somewhere in [chennai](location)
+- go for [bar]{"entity": "facility_type", "value": "restaurant"} in [gohati]{"entity": "location", "value": "Guwahati"}
+- search [bar]{"entity": "facility_type", "value": "restaurant"} in [noida](location)
+- [cheap](budget) [hotel]{"entity": "facility_type", "value": "restaurant"} nearby [hyderabad](location)
+- based in [ahmadabad](location)
+- find in [lucknow](location)
+- shoe me [german](cuisine) [food joints]{"entity": "facility_type", "value": "restaurant"}
+- how about [european](cuisine) [lounges]{"entity": "facility_type", "value": "restaurant"}
+- looking for [hotel]{"entity": "facility_type", "value": "restaurant"} with budget of [More than 700]{"entity": "money", "value": "799"}
+- [between Rs 700 and 1000]{"entity": "money", "value": "799"}
+- shoe me some [cafe]{"entity": "facility_type", "value": "restaurant"} with price [More than 700]{"entity": "money", "value": "799"}
+- [greater than 1000]{"entity": "money", "value": "799"}
+- [upto 1500]{"entity": "money", "value": "799"}
+- a [dhaba]{"entity": "facility_type", "value": "restaurant"} between the [Rs 300 to 700]{"entity": "money", "value": "599"} budget
+- [afghan](cuisine) food
+- my budget is [Rs 300]{"entity": "money", "value": "299"}
+- i'll prefer food in [low price]{"entity": "money", "value": "299"}
+- how bout [asian oriental](cuisine)
+- what about [indian](cuisine) food in [chennai](location)
+- uh how about [turkish](cuisine) type of food
+- um [english](cuisine) [cafe]{"entity": "facility_type", "value": "restaurant"} in budget range of [Rs 300 to 700]{"entity": "money", "value": "599"}, mail on [atulverma@yahoo.in](emailid)
+- i'll go for [italian](cuisine) [700 max]{"entity": "money", "value": "599"}
+- im looking for [tuscan](cuisine) food
+- uh how about [pocket-friendly]{"entity": "money", "value": "299"} [turkish](cuisine) food serving [cafe]{"entity": "facility_type", "value": "restaurant"} in [bangalore](location)
+- serves [Chinise]{"entity": "cuisine", "value": "Chinese"} food
+- show me [north indian](cuisine) [cafes]{"entity": "facility_type", "value": "restaurant"}, i can spare [max 700]{"entity": "money", "value": "599"}
+- im looking for [romanian](cuisine) [restro]{"entity": "facility_type", "value": "restaurant"} food
+- [cafe's]{"entity": "facility_type", "value": "restaurant"} serving [canapes](cuisine) food [under 500]{"entity": "money", "value": "599"}
+- i am intrested in [not too cheap]{"entity": "money", "value": "599"} [south american](cuisine) [longes]{"entity": "facility_type", "value": "restaurant"}
+- im looking for [Chinis]{"entity": "cuisine", "value": "Chinese"} food
+- i'll go for [low tarrif]{"entity": "money", "value": "299"} [american](cuisine) [cafe's]{"entity": "facility_type", "value": "restaurant"}
+- will prefer food [on sale]{"entity": "money", "value": "299"} around [old dili]{"entity": "location", "value": "Delhi"}
+- show me [moderate](budget) priced [cafes]{"entity": "facility_type", "value": "restaurant"} which serves [mexican](cuisine) food
+- give me [high priced]{"entity": "money", "value": "799"} [american](cuisine)
+- id like [moroccan](cuisine) [bar]{"entity": "facility_type", "value": "restaurant"}, i can spend [Rs 300 to 700]{"entity": "money", "value": "599"}
+- show me for good food [under 500]{"entity": "money", "value": "599"} in [delhi](location)
+- good cafe with price [upto 700]{"entity": "money", "value": "599"}
+- how about any [indian](cuisine) [restaurant](facility_type)
+- can i get [chinese]{"entity": "cuisine", "value": "Chinise"} food around here
+- please find me a restaurant in [Ahmadabad](location), i'll the mail on [kalyankatta@yahoo.com](emailid)
+- [restaurant](facility_type) [New Delhi]{"entity": "location", "value": "Delhi"}
+- [restaurant](facility_type) in [Chandigarh](location)
+- [restaurant](facility_type) near [Agra](location)
+- good [restaurant](facility_type) near [Guwahati](location)
+- top [restaurant](facility_type) in [Vijayawada](location)
+- any good [restaurant](facility_type) near [Srinagar](location) bus depo
+- best rated [restaurant](facility_type) near [Ranchi](location) railway station
+- give me [restaurant](facility_type) in [Raipur](location)
+- show me best [restaurant](facility_type) in [Kalkata]{"entity": "location", "value": "Kolkata"}
+- help me with best [restaurant](facility_type) near [Visakhapatnam](location) port
+- help me find good [restaurant](facility_type) around [Prayagraj](location)
+- i need a [restaurant](facility_type) around [Amritsar](location), can you mail me on [198pr_akriti@yahoo.com](emailid)
+- i am looking for top [restaurant](facility_type) in [Mumbai](location)
+- help me with top [motel]{"entity": "facility_type", "value": "restaurant"} in [bombay]{"entity": "location", "value": "Mumbai"}
+- i am looking for top [restaurant](facility_type) in [bambay]{"entity": "location", "value": "Mumbai"}
+- show me top [restaurant](facility_type) in [bambai]{"entity": "location", "value": "Mumbai"}
+- go for for top [restaurant](facility_type) in [dilli]{"entity": "location", "value": "Delhi"}
+- i am looking for top [restaurant](facility_type) in [bunglore]{"entity": "location", "value": "Bangalore"}
+- some best [dahabas]{"entity": "facility_type", "value": "restaurant"} in [old delhi]{"entity": "location", "value": "Delhi"}
+- looking for good [cafes]{"entity": "facility_type", "value": "restaurant"} around [nayi dilli]{"entity": "location", "value": "Delhi"}
+- looking out for top [restaurant](facility_type) near [bengaluru]{"entity": "location", "value": "Bangalore"}
+- [eatries]{"entity": "facility_type", "value": "restaurant"} nearby [Lucknow](location), my mail addrress is [sonu1981sood@outlook.com](emailid)
+- help me with nearby [restaurant](facility_type) in [Gwalior](location)
+- can you please help me with nearby [restaurant](facility_type) at [banaras]{"entity": "location", "value": "Varanasi"}
+- can you please show me some near by [restaurant](facility_type) in [Ahmadabad](location)
+- may you find some nearby [restaurant](facility_type) in [Jabalpur](location)?
+- are there any good [restaurant](facility_type) nearby [Kochi](location)
+- find me a nearby [restaurant](facility_type) in [Noida](location)
+- i live in [Noida](location) and i need an [restaurnat]{"entity": "facility_type", "value": "restaurant"}, w'll like the details on [zxcfe123@yahoo.com](emailid)
+- i am located in [Mumbai](location) and i need a [restaurant](facility_type)
+- i need a [restaurant](facility_type) at [Pune](location)
+- show me [restaurant](facility_type) in [Chennai](location)
+- find me a nearby [restaurant](facility_type) in [Vadodra](location)
+- hi i am in [Pune](location) i need a [restaurant](facility_type)
+- hi i am in [Meerut](location) i need a [restaurant](facility_type)
+- hi i am in [Ghaziabad](location) i need a [restaurant](facility_type)
+- hello i am in [Bangalore](location) i need a [restaurant](facility_type)
+- Good morning i am in [Vellore](location) i need a [restaurant](facility_type)
+- Hello again i need a [restaurant](facility_type) in [Mangalore](location)
+- Good morning i need a [restaurant](facility_type) in [Kolkata](location)
+- Can you tell me a [restaurant](facility_type) in [Indore](location)?
+- please find me a near by [restaurant](facility_type) in [Bhopal](location)
+- show me [chines]{"entity": "cuisine", "value": "Chinese"} [restaurant](facility_type) in the [New Delhi]{"entity": "location", "value": "Delhi"}
+- best [mexican](cuisine) [food outlet]{"entity": "facility_type", "value": "restaurant"} in [deli]{"entity": "location", "value": "Delhi"}
+- I’m hungry. Looking out for some good [motels]{"entity": "facility_type", "value": "restaurant"} in [himachal](location)
+- Can you suggest some good [italian](cuisine) [cafe]{"entity": "facility_type", "value": "restaurant"} in [kalkata]{"entity": "location", "value": "Kolkata"}
+- I am looking for a [restaurant](facility_type) serving [mexican indian fusion](cuisine)
+- [restaurant](facility_type) with [indian](cuisine) food
+- find me best [restaurant](facility_type) serving [italian](cuisine) food
+- show me [north indian](cuisine) [restaurant](facility_type)
+- i am intrested in [restaurant](facility_type) having [south american]{"entity": "cuisine", "value": "American"} cusine on menu
+- im looking for [malaysian](cuisine) [food joints]{"entity": "facility_type", "value": "restaurant"} in [chandigarh](location)
+- I’m hungry. Looking out for some good [chinse]{"entity": "cuisine", "value": "Chinese"} [restaurants]{"entity": "facility_type", "value": "restaurant"} in chandigarh
+- nearby [north india]{"entity": "cuisine", "value": "North Indian"} [takeaways]{"entity": "facility_type", "value": "restaurant"}
+- what about [indian](cuisine) [takeaways]{"entity": "facility_type", "value": "restaurant"}
+- [takeaways]{"entity": "facility_type", "value": "restaurant"} serving [jamaican](cuisine) food
+- um what about [food joints]{"entity": "facility_type", "value": "restaurant"} serving  [italian](cuisine) food
+- im looking for [Italian](cuisine) food, mail me details on [kambojakriti@capc.au](emailid)
+- im looking for [Mexican](cuisine) food
+- how bout one that serves [noth indian](cuisine) food and is cheap
+- how about [south india]{"entity": "cuisine", "value": "South Indian"} type of food
+- it should serve [scandinavian](cuisine) food
+- serves [traditional](cuisine) food [above 700]{"entity": "money", "value": "799"}
+- serves [brazilian](cuisine)
+- i would like [cheap](budget) [modern european](cuisine)
+- i'd like [budget]{"entity": "money", "value": "299"} veg thali in [chennai](location)
+- looking for [lebanese](cuisine) food in [Nepal](location)
+- i'll prefer to have [mid priced]{"entity": "money", "value": "599"} [portuguese](cuisine) today
+- [budget]{"entity": "money", "value": "299"} hotel(facility_type:restaurant) serving [european](cuisine) around [Guwahati](location)
+- i want [polish](cuisine) hotel(facility_type:restaurant) budget [below Rs 300]{"entity": "money", "value": "299"}
+- show me some non-veg hotels(facility_type:restaurant) with budget [under 600]{"entity": "money", "value": "599"}
+- i want to find [moroccan](cuisine) food
+- [afghani](cuisine) [dhaba's]{"entity": "facility_type", "value": "restaurant"} around [kochi](location) fort
+- [scottish](cuisine) [joints]{"entity": "facility_type", "value": "restaurant"} in [surat](location)
+- how about [restro]{"entity": "facility_type", "value": "restaurant"} with [vietnamese](cuisine)
+- hi im looking for [cheap](budget) [mexican](cuisine) [food joints]{"entity": "facility_type", "value": "restaurant"}
+- how about [indian](cuisine) type of food
+- [polynesian](cuisine) food in [purani dilli]{"entity": "location", "value": "Delhi"}
+- show me some [mexican](cuisine) [cafe]{"entity": "facility_type", "value": "restaurant"}
+- any [japanese](cuisine) [food outlet]{"entity": "facility_type", "value": "restaurant"} near me
+- what about [thai](cuisine) food
+- how about [asian oriental](cuisine) food in price range
+- im looking for [japanese](cuisine) food
+- im looking for [belgian](cuisine) food
+- im looking for [turkish](cuisine) food
+- serving [corsica](cuisine) food
+- serving [gastro pub]{"entity": "cuisine", "value": "gastropub"}
+- is there [british](cuisine) food
+- please show me a few [italian](cuisine) [restaurants]{"entity": "facility_type", "value": "restaurant"} in [bangalore](location)
+- im looking for something serves [japanese](cuisine) food near [vellore](location)
+- id like a [greek](cuisine), send me details via mail on [kaly_katta@orkut.com](emailid)
+- im looking for [malaysian](cuisine) food in [cochin]{"entity": "location", "value": "Kochi"}
+- i want to find [world](cuisine) food in [madras]{"entity": "location", "value": "Chennai"}
+- serves [pan asian]{"entity": "cuisine", "value": "asian"} food
+- looking for [afghan](cuisine) food
+- i want [hyderabadi biryani]{"entity": "cuisine", "value": "South Indian"}
+- that serves [portuguese](cuisine) food
+- [asian oriental]{"entity": "cuisine", "value": "asian"} food
+- [asian oriental]{"entity": "cuisine", "value": "asian"} serving [bar]{"entity": "facility_type", "value": "restaurant"}
+- serving [basque](cuisine) food
+- how about [italian](cuisine) in [gb nagar]{"entity": "location", "value": "Noida"}
+- looking for [spanish](cuisine) food in the center of town
+- it should serve [gastropub](cuisine) food
+- i want [vegetarian](cuisine) food
+- im looking for [swedish](cuisine) food
+- um how about [exotic]{"entity": "money", "value": "799"} [chinese]{"entity": "cuisine", "value": "Chinese"} food
+- can i have a [pocket friendly]{"entity": "money", "value": "299"} [seafood](cuisine) in [noida](location) please
+- how about [restro]{"entity": "facility_type", "value": "restaurant"} serving [italian](cuisine) food [above rs 900]{"entity": "money", "value": "799"}
+- [vegetarian](cuisine) food [restro]{"entity": "facility_type", "value": "restaurant"}
+- what about [italian](cuisine) [food joint]{"entity": "facility_type", "value": "restaurant"}
+- how about [cafes]{"entity": "facility_type", "value": "restaurant"} having [portuguese](cuisine) food in [bearable]{"entity": "money", "value": "599"} range
+- [cafes]{"entity": "facility_type", "value": "restaurant"} serving [delicious]{"entity": "money", "value": "799"} [french](cuisine) food in [lucknow](location)
+- i'll have [tuscan](cuisine) selling [cafes]{"entity": "facility_type", "value": "restaurant"}
+- how about uh [delicious]{"entity": "money", "value": "799"} [gastropub](cuisine) [cafe's]{"entity": "facility_type", "value": "restaurant"}
+- im looking for [malaysian](cuisine) [cafe's]{"entity": "facility_type", "value": "restaurant"}
+- im looking for [unusual](cuisine) food in [<700]{"entity": "money", "value": "599"}
+- [most preferred]{"entity": "money", "value": "599"} [danish](cuisine) food in [gwalior](location)
+- how about [spanish](cuisine) [cafe's]{"entity": "facility_type", "value": "restaurant"}
+- [restro]{"entity": "facility_type", "value": "restaurant"} serving [vietnamese](cuisine) food in [moderate](budget) range
+- [food outlets]{"entity": "facility_type", "value": "restaurant"} serving [spanish](cuisine) in [delhi](location)
+- show me good [hotel]{"entity": "facility_type", "value": "restaurant"}  serving [hyderabadi]{"entity": "cuisine", "value": "South Indian"} food
+- a [restaurant](facility_type) serving [romanian](cuisine) food in [pocket fiendly]{"entity": "money", "value": "299"} budget
+- im looking for [lebanese](cuisine) [cafe's]{"entity": "facility_type", "value": "restaurant"} in [mid range]{"entity": "money", "value": "599"} budget
+- show me [classical]{"entity": "money", "value": "799"} [italian](cuisine) [restro]{"entity": "facility_type", "value": "restaurant"} in [banglore]{"entity": "location", "value": "Bangalore"}
+- a [restaurant](facility_type) with [afghan](cuisine) food
+- im looking for [traditional](cuisine) food near [bomaby]{"entity": "location", "value": "Mumbai"} ralway station
+- uh i want [cantonese](cuisine) food around [meerut](location)
+- im looking for [thai](cuisine) around [hyderabd](location) in [standard]{"entity": "money", "value": "599"} price
+- [mexican](cuisine) [lounge]{"entity": "facility_type", "value": "restaurant"} in [300 to 700 budget]{"entity": "money", "value": "299"} near me
+- show me [cantonese](cuisine) [cafes]{"entity": "facility_type", "value": "restaurant"} in [bhopal](location), my budget is [lesser than Rs 300]{"entity": "money", "value": "299"}
+- i am looking for [lebanese](cuisine) food in range of [300 to 700]{"entity": "money", "value": "599"} in [dehradun](location)
+- any lavish [bars]{"entity": "facility_type", "value": "restaurant"} in [hyderabad](location) in budget of [More than 700]{"entity": "money", "value": "799"}
+- show me [traditional](cuisine) [restaurants]{"entity": "facility_type", "value": "restaurant"} around [mankapur](location) with average budget of [<300]{"entity": "money", "value": "299"}
+- [cafe's]{"entity": "facility_type", "value": "restaurant"} serving [south india]{"entity": "cuisine", "value": "South Indian"} food in budget range of [>300 and <700]{"entity": "money", "value": "599"}
+- good [bars]{"entity": "facility_type", "value": "restaurant"} with average budget [>700]{"entity": "money", "value": "799"}
+- where i can have [exotic]{"entity": "money", "value": "799"} [chinese]{"entity": "cuisine", "value": "Chinese"} dish in [kanpur](location)
+- what about [indian](cuisine) food with [ample]{"entity": "money", "value": "799"} budget
+- um [mexican](cuisine), my budget is [More than 700]{"entity": "money", "value": "799"}
+- id like [moroccan](cuisine) food at [reasonable]{"entity": "money", "value": "599"}  price
+- i'll prefer [mexican](cuisine)
+- show me some [cheapo]{"entity": "money", "value": "299"} [thai](cuisine) [food joints]{"entity": "facility_type", "value": "restaurant"}
+- i will go for [mid priced]{"entity": "money", "value": "599"} [thai](cuisine)
+- id like a [greek](cuisine) with [median] budget near [kolkata](location)
+- [chinis]{"entity": "cuisine", "value": "Chinese"} with [intermediate]{"entity": "money", "value": "599"} (budget:moderate) price will do
+- what about [cost-effective]{"entity": "money", "value": "299"} [sount indian](cuisine)
+- [italian](cuisine) is my favourite, but [not too cheap]{"entity": "money", "value": "599"}
+- id like [low price]{"entity": "money", "value": "299"} [thai](cuisine)
+- serves [chinise]{"entity": "cuisine", "value": "Chinese"} in [bangalore](location), price to be [below Rs 300]{"entity": "money", "value": "299"}
+- i need a [cafe]{"entity": "facility_type", "value": "restaurant"} in [bangalore](location)
+- i need a [cafe]{"entity": "facility_type", "value": "restaurant"}
+- looking for [american]{"entity": "cuisine", "value": "American"}  [cafe]{"entity": "facility_type", "value": "restaurant"} in [<300]{"entity": "money", "value": "299"}
+- need a [mexican](cuisine) [cafe]{"entity": "facility_type", "value": "restaurant"}
+- shoe me [mexican](cuisine) [budget]{"entity": "money", "value": "299"} [cafe]{"entity": "facility_type", "value": "restaurant"} in [mumbai](location)
+- need a [cafe]{"entity": "facility_type", "value": "restaurant"}
+- looking for [cafe]{"entity": "facility_type", "value": "restaurant"}
+- find me a [budget]{"entity": "money", "value": "299"} [hotel]{"entity": "facility_type", "value": "restaurant"} near [kanpur](location)
+- [mexican](cuisine) food in [illahabad]{"entity": "location", "value": "Allahabad"}
+- find me a good [bar]{"entity": "facility_type", "value": "restaurant"}
+- find me a [restaurant](facility_type)
+- find me a [restaurant](facility_type)
+
+## intent:thanks
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- great !
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+- Cool. Thanks
+- Great, thanks
+- Thank you Sara
+- Thank's!
+- Thanks!
+- cool thanks
+- danke
+- great thanks
+- thank u
+- thank you anyways
+- thanks for forum link, I'll check it out
+- thanks this is great news
+- thanks you
+- thanks!
+- thankyou
+- thnks
+- thx
+- thanks for your information
+- thanks f
+
+## synonym: South Indian
+- south india
+- hyderabadi biryani
+- hyderabadi
+- south food
+
+## synonym: cheap
+- 100-300
+- normal
+- 100
+- Rs 300
+- 150
+- 200
+- 250
+- 300
+- pocket fiendly
+- low price
+- low priced
+- < 300
+- 100 to 300
+- low cost
+- under 250
+- near 300
+- below 300
+- budget
+- upto 300
+- cost-effective
+- economical
+- modest
+- between 100 to 300
+- lesser than Rs 300
+- cheapo
+- lowered
+- discounted
+- <300
+- exactly 300
+- not more than 300
+- Lesser than Rs 300
+- under Rs 300
+- less than 300
+- sasta
+- pocket-friendly
+- low tarrif
+- below Rs 300
+- pocket friendly
+- > 200
+- Rs 200
+- More than 100
+
+## synonym: expansive
+- 900
+- high priced
+- heavily priced
+- classical
+- high end
+- authentic
+- wide ranging
+- above 700
+- > 700
+- >700
+- >1000
+- ample
+- high budget
+- hefty
+- 800
+- 1000
+- 1500
+- 2500
+- 1200
+- More than 700
+- between Rs 700 and 1000
+- greater than 1000
+- upto 1500
+- exotic
+- above rs 900
+- delicious
+- between rs 800 and 1000
+- upto 1000
+- greater than 700
+- rs 800
+- 700 to 1000
+- classic
+
+## synonym: moderate
+- Rs 700
+- Rs 300 to 700
+- Between Rs 300 to 700
+- 400
+- 600
+- 500
+- 700
+- 399
+- 350
+- medium range
+- mid sized
+- not too cheap
+- most common
+- <700
+- >300 and <700
+- More than 300
+- < 700
+- less than 700
+- near 600
+- upto 700
+- not more than 600
+- between 300 and 700
+- between Rs 300 and 700
+- bearable
+- reasonable
+- intermediate
+- middle
+- mid priced
+- median
+- standard
+- 300-700
+- most preferred
+- around 700
+- 700 max
+- max 700
+- mid range
+- 300 to 700 budget
+- 300 to 700
+- balanced
+- moderate range
+
+## synonym:American
+- american
+- south american
+
+## synonym:Bangalore
+- bungalore
+- bangolore
+- bunglore
+- bengaluru
+- banglore
+- bengluru
+- bungaluru
+- bungluru
+- benglore
+- bangalore
+- Bengaluru
+
+## synonym:Bokaro Steel City
+- Bokaro
+- bokaro
+
+## synonym:Chennai
+- chenai
+- madras
+- chennai
+
+## synonym:Chinese
+- chini
+
+## synonym:Delhi
+- dili
+- delhi
+- old delhi
+- purani dilli
+- old dili
+- New Delhi
+- dilli
+- nayi dilli
+- deli
+- purani dili
+- dehli
+- old dilli
+- old dehli
+- nayi dili
+
+## synonym:Gurgaon
+- Gurugram
+- gurugram
+- gurgaon
+
+## synonym:Guwahati
+- gohati
+- Gohati
+- guahati
+- Guwhati
+- guwahati
+
+## synonym:Jamshedpur
+- Tata
+- Tata Nagar
+- jamshedpur
+
+## synonym:Kochi
+- cochin
+- cochi
+- kochin
+- kochi
+
+## synonym:Kolkata
+- calcutta
+- Kalkata
+- kalkata
+- calcuta
+- culcutta
+- kalkatta
+- kolkata
+
+## synonym:Lucknow
+- lucknow
+
+## synonym:Mumbai
+- bombay
+- bambay
+- bambai
+- bomaby
+- mumbay
+- mumbai
+
+## synonym:Noida
+- noida
+- gb nagar
+
+## synonym:North Indian
+- North india
+- north india
+- purvanchal
+- uttar bharat
+- purvotar
+- north indian
+
+## synonym:Patna
+- Pataliputra
+- patna
+
+## synonym:Pondicherry
+- Puducherry
+- pondicherry
+
+## synonym:Prayagraj
+- illahabad
+- Prayag
+- Allahabad
+- allahabad
+- allabad
+- alahabad
+- allhabad
+- illahbad
+- prayagraj
+
+## synonym:Rishikesh
+- Risikesh
+- rishikesh
+
+## synonym:Shimla
+- Simla
+- shimla
+
+## synonym:Thiruvananthapuram
+- Trivandrum
+- thiruvananthapuram
+
+## synonym:Tiruchirappalli
+- Trichinopoly
+- Tiruchi
+- Trichy
+- tiruchirappalli
+
+## synonym:Ujjain
+- Ujjaini
+- Avanti
+- Avantika
+- Avantikapuri
+- ujjain
+
+## synonym:Vadodara
+- Baroda
+- vadodara
+
+## synonym:Varanasi
+- banaras
+- Banaras
+- Kashi
+- kasi
+- kashi
+- vanaras
+- varanasi
+
+## synonym:Visakhapatnam
+- Vizag
+- visakhapatnam
+
+## synonym:asian
+- pan asian
+- asian oriental
+
+## synonym:cheap
+- on sale
+
+## synonym:chinese
+- Chinise
+- Chinis
+- chinese
+- chines
+- chinse
+- chinis
+- chinise
+
+## synonym:gastropub
+- gastro pub
+
+## synonym:mid
+- moderate
+
+## synonym:moderate
+- balaced
+- under 500
+- under 600
+
+## synonym:restaurant
+- restaurants
+- cafe
+- hotels
+- resturant
+- pub
+- restro
+- motels
+- eatries
+- cafes
+- dhabas
+- eatry
+- hotel
+- bar
+- resataurants
+- motel
+- dhaba
+- food joints
+- lounges
+- cafe's
+- longes
+- dahabas
+- restaurnat
+- food outlet
+- takeaways
+- dhaba's
+- joints
+- food joint
+- food outlets
+- lounge
+- bars
+- pubs
+
+## synonym:two
+- 2
+
+## synonym:vegetarian
+- veggie
+- vegg
+
+## regex:affirm
+- sure[^\s]*
+- ye[^\s]*
+- yes[^\s]*
+- yup[^\s]*
+
+## regex:deny
+- nah[^\s]*
+- no[^\s]*
+- nope[^\s]*
+
+## regex:email
+- ^[a-zA-Z0-9]+[\._]?[a-zA-Z0-9]+[@][\w]{2,7}[.][\w]{2,3}$
+
+## regex:greet
+- hello[^\s]*
+- helo[^\s]*
+- hey[^\s]*
+- hi[^\s]*
+
+## regex:pincode
+- [0-9]{6}
