@@ -1,7 +1,7 @@
 # NLP---Building-Chatbots-with-Rasa
 
 Please install all the dependent libraries used in this project from 'requirements.txt', this text file is available in this folder.
-A short description of this Rasa Chatbot study is provided in file 'ReadNeText'.
+A short description of this Rasa Chatbot study is provided in file 'ReadMeText'.
 
 Problem statement:
 Here the main objective is to build a conversational bot (chatbot) which can help users quickly and efficiently discover restaurants across several Indian cities, also at the end to provide a good restaurant discovery experience. 
