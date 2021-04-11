@@ -11,9 +11,13 @@ Mainly three things have been accomplished in this project - NLU training, Build
 One of the formats of the chat with user, this chatbot provides is as following:
 
 User: Hi
+
 Bot: Hi there! How may I help you?
+
 User: Can you suggest some good restaurants in Bangalore
+
 Bot: What kind of cuisine would you like to have?
+
 1. Chinese
 2. Mexican
 3. Italian
