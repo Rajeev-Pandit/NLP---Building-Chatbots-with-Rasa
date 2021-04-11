@@ -4,9 +4,10 @@ Please install all the dependent libraries used in this project from 'requiremen
 A short description of this Rasa Chatbot study is provided in file 'ReadMeText'.
 
 Problem statement:
-Here the main objective is to build a conversational bot (chatbot) which can help users quickly discover restaurants across several Indian cities, also at the end to provide a good restaurant discovery experience. 
+Here the main objective is to build a conversational bot (chatbot) which can help users quickly discover restaurants across several Indian cities, also at the end to provide a good restaurant discovery experience.
+Mainly three things have been accomplished in this project - NLU training, Build actions for the bot (Zomato API used here), creating more stories.
 
-One of the formats of the chat with user, this chatboat provides is as following:
+One of the formats of the chat with user, this chatbot provides is as following:
 
 User: Hi
 Bot: Hi there! How may I help you?
